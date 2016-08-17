@@ -23,7 +23,9 @@
 
 @end
 
-
+```
+##implementation code
+```
 @implementation TestModel
 
 + (void)initialize {
@@ -34,9 +36,7 @@
 }
 
 @end
-```
-##implementation code
-```
+
 @implementation TestModel (BaseProperty)
 
 @dynamic aPoint;
