@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C68CB5971D646E940046082F /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = C68CB5961D646E940046082F /* README.md */; };
 		C6B8ECEA1D64625C001E6FFB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C6B8ECE91D64625C001E6FFB /* main.m */; };
 		C6B8ECED1D64625C001E6FFB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C6B8ECEC1D64625C001E6FFB /* AppDelegate.m */; };
 		C6B8ECF01D64625C001E6FFB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C6B8ECEF1D64625C001E6FFB /* ViewController.m */; };
@@ -15,10 +16,10 @@
 		C6B8ECF81D64625C001E6FFB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6B8ECF61D64625C001E6FFB /* LaunchScreen.storyboard */; };
 		C6B8ED021D646286001E6FFB /* NSObject+PropertyExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = C6B8ED011D646286001E6FFB /* NSObject+PropertyExtension.m */; };
 		C6B8ED051D646303001E6FFB /* TestModel.m in Sources */ = {isa = PBXBuildFile; fileRef = C6B8ED041D646303001E6FFB /* TestModel.m */; };
-		C6B8ED071D646CCD001E6FFB /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = C6B8ED061D646CCD001E6FFB /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C68CB5961D646E940046082F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		C6B8ECE51D64625C001E6FFB /* PropertyExtension.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PropertyExtension.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6B8ECE91D64625C001E6FFB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		C6B8ECEB1D64625C001E6FFB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -33,7 +34,6 @@
 		C6B8ED011D646286001E6FFB /* NSObject+PropertyExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+PropertyExtension.m"; sourceTree = "<group>"; };
 		C6B8ED031D646303001E6FFB /* TestModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestModel.h; sourceTree = "<group>"; };
 		C6B8ED041D646303001E6FFB /* TestModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestModel.m; sourceTree = "<group>"; };
-		C6B8ED061D646CCD001E6FFB /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,7 +50,7 @@
 		C6B8ECDC1D64625C001E6FFB = {
 			isa = PBXGroup;
 			children = (
-				C6B8ED061D646CCD001E6FFB /* README.md */,
+				C68CB5961D646E940046082F /* README.md */,
 				C6B8ECE71D64625C001E6FFB /* PropertyExtension */,
 				C6B8ECE61D64625C001E6FFB /* Products */,
 			);
@@ -170,7 +170,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C6B8ED071D646CCD001E6FFB /* README.md in Sources */,
+				C68CB5971D646E940046082F /* README.md in Sources */,
 				C6B8ED021D646286001E6FFB /* NSObject+PropertyExtension.m in Sources */,
 				C6B8ED051D646303001E6FFB /* TestModel.m in Sources */,
 				C6B8ECF01D64625C001E6FFB /* ViewController.m in Sources */,
