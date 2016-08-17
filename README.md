@@ -1,5 +1,6 @@
 一句话实现属性扩展
-感谢[lianchengjiang](https://github.com/lianchengjiang)的[LcCategoryProperty](https://github.com/lianchengjiang/LcCategoryProperty),自己写了一遍，加深一下影响并做了一些修改。
+
+感谢[lianchengjiang](https://github.com/lianchengjiang)的[LcCategoryProperty](https://github.com/lianchengjiang/LcCategoryProperty),自己写了一遍，加深一下印象并做了一些修改。
 ##interface code
 ```
 @interface TestModel : NSObject
