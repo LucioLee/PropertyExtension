@@ -26,6 +26,6 @@
 
 @property (nonatomic, strong) NSString *name;
 @property (nonatomic, strong) NSURL *aURL;
-@property (nonatomic, strong)NSDate *aDate;
+@property (nonatomic, strong) NSDate *aDate;
 
 @end
