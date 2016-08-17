@@ -1,5 +1,7 @@
 一句话实现属性扩展
-`
+
+##interface code
+```
 @interface TestModel : NSObject
 @end
 
@@ -32,7 +34,9 @@
 }
 
 @end
-
+```
+##implementation code
+```
 @implementation TestModel (BaseProperty)
 
 @dynamic aPoint;
@@ -64,4 +68,4 @@
 }
 
 @end
-`
+```
